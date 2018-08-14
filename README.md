@@ -1,5 +1,5 @@
 # bunsenlabs-wallpapers
-A few wallpapers that I created in Inkscape.
+A few wallpapers that I created with Inkscape.
 
 
 
